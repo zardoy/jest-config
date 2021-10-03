@@ -6,7 +6,6 @@
     "repository": "https://github.com/zardoy/jest-config.git",
     "author": "Vitaly Turovsky <vital2580@icloud.com>",
     "license": "MIT",
-    "private": true,
     "files": [
         "build"
     ],
